@@ -1,0 +1,18 @@
+{
+  "name": "AndroidResourceGenerator",
+  "version": "0.0.1",
+  "description": "Test",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-image-resize": "^0.5.0",
+    "gulp": "^3.8.6"
+  },
+  "devDependencies": {
+    "gulp-image-resize": "^0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grzegorz Hadala",
+  "license": "MIT"
+}
